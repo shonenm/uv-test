@@ -1,4 +1,5 @@
-import os, sys, time
+import os
+import time
 
 def main():
     print("Hello from uv-test!")
